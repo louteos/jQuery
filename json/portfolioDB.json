@@ -1,0 +1,65 @@
+[
+    {
+        "ttImg" : "./img/main/ad/1.jpg",
+        "thImg" : [
+            "./img/thumb/ad/1.jpg", 
+            "./img/thumb/ad/2.jpg", 
+            "./img/thumb/ad/3.jpg"],
+        "descH2" : "수능광고전단지",
+        "desc": "11월 17일 2023 대입수학능력검정시험",
+        "pLink" : [
+            {
+            "iconCs" : "text-dark fs-5",
+            "iconText" : "깃허브",
+            "iconLink" : "https://www.github.com/4thdraw/",
+            "iconFa" : "fa-brands fa-git"
+            },
+            {
+            "iconCs" : "text-dark fs-5",
+            "iconText" : "사이트",
+            "iconLink" : "https://www.naver.com",
+            "iconFa" : "fa-brands fa-google"
+            }]
+    },
+    {
+        "ttImg" : "./img/main/ad/1.jpg",
+        "thImg" : [
+            "./img/thumb/ad/1.jpg", 
+            "./img/thumb/ad/2.jpg", 
+            "./img/thumb/ad/3.jpg"],
+        "descH2" : "리액트 소개",
+        "desc": "npm start",
+        "pLink" : [
+            {
+            "iconCs" : "text-dark fs-5",
+            "iconText" : "깃허브",
+            "iconLink" : "https://www.github.com/4thdraw/",
+            "iconFa" : "fa-brands fa-git"
+            },
+            {
+            "iconCs" : "text-dark fs-5",
+            "iconText" : "깃허브",
+            "iconLink" : "https://www.github.com/4thdraw/",
+            "iconFa" : "fa-brands fa-git"
+            },
+            {
+            "iconCs" : "text-dark fs-5",
+            "iconText" : "깃허브",
+            "iconLink" : "https://www.github.com/4thdraw/",
+            "iconFa" : "fa-brands fa-git"
+            }]
+    },
+    {
+        "ttImg" : "./img/main/ad/1.jpg",
+        "thImg" : [
+            ],
+        "descH2" : "EC솔루션 프론트엔드(Front-End) 개발",
+        "desc":  "성능 개선을 위한 아이콘 svg처리와 레스터이미지 배경처리",
+        "pLink" : [
+            {
+            "iconCs" : "text-dark fs-5",
+            "iconText" : "사이트",
+            "iconLink" : "구글의 ppt링크주소"
+            }]
+    }
+]
